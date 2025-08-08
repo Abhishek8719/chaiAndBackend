@@ -1,0 +1,5 @@
+*.env
+.env
+.enc.*
+/node_modules
+./dist
